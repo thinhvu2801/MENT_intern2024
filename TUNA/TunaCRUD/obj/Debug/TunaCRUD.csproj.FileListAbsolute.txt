@@ -1,0 +1,15 @@
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\TunaCRUD.exe.config
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\TunaCRUD.exe
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\TunaCRUD.pdb
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\EntityFramework.dll
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\EntityFramework.xml
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.csproj.AssemblyReference.cache
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.Properties.Resources.resources
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.csproj.GenerateResource.cache
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.csproj.CoreCompileInputs.cache
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.csproj.Up2Date
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.exe
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.pdb
+C:\DISK D\CCTCC\Thuctap2024\TUNA\TunaCRUD\obj\Debug\TunaCRUD.Views.FishInformationForm.resources

@@ -1,0 +1,233 @@
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetManagement.csproj.AssemblyReference.cache
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetManagement.Properties.Resources.resources
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\CRUDWinFormsMVP.Views.MainView.resources
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\CRUDWinFormsMVP.Views.PetView.resources
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetManagement.csproj.GenerateResource.cache
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetManagement.csproj.CoreCompileInputs.cache
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\MVPPetManagement.exe.config
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\MVPPetManagement.exe
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\MVPPetManagement.pdb
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\System.ComponentModel.Annotations.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetMa.03618AB8.Up2Date
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetManagement.exe
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\obj\Debug\MVPPetManagement.pdb
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\EntityFramework.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\EntityFramework.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.csproj.AssemblyReference.cache
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.Properties.Resources.resources
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\CRUDWinFormsMVP.Views.MainView.resources
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\CRUDWinFormsMVP.Views.PetView.resources
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.csproj.GenerateResource.cache
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.csproj.CoreCompileInputs.cache
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.exe
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.pdb
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\MVPPetManagement.exe.config
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\MVPPetManagement.exe
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\MVPPetManagement.pdb
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Options.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Identity.Client.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Buffers.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Collections.Immutable.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.ComponentModel.Annotations.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Memory.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Numerics.Vectors.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Options.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Identity.Client.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Buffers.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Collections.Immutable.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Memory.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Numerics.Vectors.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\backup2024\AABackup\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetMa.03618AB8.Up2Date
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.csproj.AssemblyReference.cache
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.Properties.Resources.resources
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\CRUDWinFormsMVP.Views.MainView.resources
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\CRUDWinFormsMVP.Views.PetView.resources
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.csproj.GenerateResource.cache
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.csproj.CoreCompileInputs.cache
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.exe
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.pdb
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\MVPPetManagement.exe.config
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\MVPPetManagement.exe
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\MVPPetManagement.pdb
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Azure.Core.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Azure.Identity.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Options.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Identity.Client.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Buffers.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.ClientModel.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Collections.Immutable.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.ComponentModel.Annotations.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Memory.Data.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Memory.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Numerics.Vectors.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.AccessControl.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.Permissions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.Principal.Windows.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Text.Encodings.Web.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Text.Json.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.ValueTuple.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Azure.Core.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Azure.Identity.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Options.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Identity.Client.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Buffers.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.ClientModel.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Collections.Immutable.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Memory.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Memory.Data.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Numerics.Vectors.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.AccessControl.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.Permissions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Security.Principal.Windows.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Text.Encodings.Web.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Text.Json.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\System.ValueTuple.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetMa.03618AB8.Up2Date
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.Views.VetView.resources
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.Views.OwnerView.resources
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\DISK D\CCTCC\Thuctap2024\MVPPetManagementNew\obj\Debug\MVPPetManagement.Views.PetFoodView.resources

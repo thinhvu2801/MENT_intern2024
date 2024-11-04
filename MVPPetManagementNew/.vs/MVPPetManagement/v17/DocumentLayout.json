@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\_repositoties\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:_repositoties\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\_repositoties\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:_repositoties\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\models\\petmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:models\\petmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\models\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:models\\petdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\presenters\\petpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:presenters\\petpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\views\\ipetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:views\\ipetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|c:\\disk d\\cctcc\\thuctap2024\\mvppetmanagementnew\\views\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:views\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\resources\\btnpets.image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:resources\\btnpets.image.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\views\\vetview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:views\\vetview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\views\\petview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:views\\petview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\views\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:views\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\models\\petfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:models\\petfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D1969B0-228B-4164-B326-E98A39F6EB93}|MVPPetManagement.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Presenters\\MainPresenter.cs",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:35:41.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "btnPets.Image.png - PNG [50x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Resources\\btnPets.Image.png",
+              "RelativeDocumentMoniker": "Resources\\btnPets.Image.png",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Resources\\btnPets.Image.png - PNG [50x50, 32 bit, PNG]",
+              "RelativeToolTip": "Resources\\btnPets.Image.png - PNG [50x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-14T08:59:36.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:46:50.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetView.Designer.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\PetView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\PetView.Designer.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\PetView.Designer.cs",
+              "RelativeToolTip": "Views\\PetView.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALYBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:40:27.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VetView.Designer.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\VetView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\VetView.Designer.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\VetView.Designer.cs",
+              "RelativeToolTip": "Views\\VetView.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:38:43.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPetView.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\IPetView.cs",
+              "RelativeDocumentMoniker": "Views\\IPetView.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\IPetView.cs",
+              "RelativeToolTip": "Views\\IPetView.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:38:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PetView.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\PetView.cs",
+              "RelativeDocumentMoniker": "Views\\PetView.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\PetView.cs",
+              "RelativeToolTip": "Views\\PetView.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwv6oAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:37:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetView.cs [Design]",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\PetView.cs",
+              "RelativeDocumentMoniker": "Views\\PetView.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Views\\PetView.cs [Design]",
+              "RelativeToolTip": "Views\\PetView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:36:52.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PetFood.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Models\\PetFood.cs",
+              "RelativeDocumentMoniker": "Models\\PetFood.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Models\\PetFood.cs",
+              "RelativeToolTip": "Models\\PetFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:30:25.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T06:12:16.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetDbContext.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Models\\PetDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\PetDbContext.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Models\\PetDbContext.cs",
+              "RelativeToolTip": "Models\\PetDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:36:12.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetModel.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Models\\PetModel.cs",
+              "RelativeDocumentMoniker": "Models\\PetModel.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Models\\PetModel.cs",
+              "RelativeToolTip": "Models\\PetModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:32:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetPresenter.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Presenters\\PetPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\PetPresenter.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\Presenters\\PetPresenter.cs",
+              "RelativeToolTip": "Presenters\\PetPresenter.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowIMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:27:15.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\_Repositoties\\PetRepository.cs",
+              "RelativeDocumentMoniker": "_Repositoties\\PetRepository.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\_Repositoties\\PetRepository.cs",
+              "RelativeToolTip": "_Repositoties\\PetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:26:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\_Repositoties\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "_Repositoties\\IPetRepository.cs",
+              "ToolTip": "C:\\DISK D\\CCTCC\\Thuctap2024\\MVPPetManagementNew\\_Repositoties\\IPetRepository.cs",
+              "RelativeToolTip": "_Repositoties\\IPetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:23:12.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
